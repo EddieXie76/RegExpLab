@@ -4,7 +4,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import org.junit.Test;
 
-public class RegExpTest1 {
+public class RegExpCompile {
 
   @Test
   public void compile_one_time() {
