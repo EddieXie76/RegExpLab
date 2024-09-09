@@ -1,0 +1,65 @@
+skinparam backgroundColor #EEEBDC
+skinparam handwritten true
+skinparam shadowing true
+
+skinparam sequence {
+	ArrowColor DeepSkyBlue
+    ArrowThickness 3
+    ArrowFontColor DimGray
+    ArrowFontSize 20
+
+	ActorBorderColor DeepSkyBlue
+	LifeLineBorderColor blue
+	LifeLineBackgroundColor #A9DCDF
+
+	ParticipantBorderColor DeepSkyBlue
+	ParticipantBackgroundColor DodgerBlue
+	ParticipantFontName Impact
+	ParticipantFontSize 30
+	ParticipantFontColor #A9DCDF
+
+	ActorBackgroundColor aqua
+	ActorFontColor DeepSkyBlue
+	ActorFontSize 30
+	ActorFontName Aapex
+}
+
+skinparam package {
+  FontSize 20
+  FontColor DimGray
+}
+
+skinparam node {
+  FontSize 20
+  FontColor DimGray
+}
+
+skinparam folder {
+  FontSize 20
+  FontColor DimGray
+}
+
+skinparam frame {
+  FontSize 20
+  FontColor DimGray
+}
+
+skinparam cloud {
+  FontSize 20
+  FontColor DimGray
+}
+
+skinparam database {
+  FontSize 20
+  FontColor DimGray
+}
+
+skinparam state {
+  FontSize 40
+  FontColor DimGray
+}
+
+skinparam arrow {
+  FontSize 40
+  FontColor DimGray
+}

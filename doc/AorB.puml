@@ -1,0 +1,11 @@
+@startuml
+!include DeepSkyBlue.iuml
+left to right direction
+title <size:40><color:DeepSkyBlue>A|B
+
+[*] --> i
+i --> j : A
+i --> j : B
+j --> [*]
+
+@enduml
