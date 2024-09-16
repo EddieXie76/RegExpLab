@@ -5,7 +5,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import org.junit.Test;
 
-public class RegExpGroup {
+public class RegExpGroupTest {
 
   public static final Pattern PATTERN = Pattern.compile(
       "=?\"(.*)\",=?\"(.*)\",=?\"(.*)\",=?\"(.*)\",=?\"(.*)\",=?\"(.*)\",=\"(.*)\",=\"(.*)\"");

@@ -6,7 +6,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import org.junit.Test;
 
-public class RegExpGreedyLazy {
+public class RegExpGreedyLazyTest {
 
   @Test
   public void greedy() {
